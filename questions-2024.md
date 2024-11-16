@@ -137,6 +137,7 @@ _[checkboxes]_
 - ClojureScript
 - C#
 - Lua
+- Non coding tool
 - Not a coder
 - _Other [text input]_
 
@@ -319,9 +320,10 @@ _[checkboxes]_
 
 - Myself
 - Our QA team
-- Community
+- Community/forums
 - Friends and family
 - External service
+- Closed group/subscribers
 - We don't have tests
 - Not applicable
 - _Other [text input]_
@@ -379,7 +381,8 @@ _[checkboxes]_
 ## 28. What is your source of income?
 _[checkboxes]_
 
-- Salary
+- Salary (from gamedev jobs)
+- Salary (from non-gamedev jobs)
 - Licensing fees (fixed / subscription / revenue share)
 - Advertisements
 - In-App Purchases
