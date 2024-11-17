@@ -189,6 +189,7 @@ _[checkboxes]_
 - Kiwi.js
 - CryEngine
 - AFrame
+- Capacitorjs
 - My own
 - None
 - Not applicable
