@@ -178,6 +178,7 @@ _[checkboxes]_
 - Construct
 - GameMaker
 - Cocos
+- Kaplay
 - GDevelop
 - Unreal
 - W.js
