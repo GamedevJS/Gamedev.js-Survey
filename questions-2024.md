@@ -461,16 +461,19 @@ _[radio]_
 ## 31. Are you involved in any blockchain / crypto / NFT related game development project? If so, which chain(s) / coin(s)?
 _[text input]_
 
-## 32. What's your overall happiness of what you do as a game developer (10 - the happiest)?
+## 32. How has the rapid growth of AI influenced your work as a game developer?
+_[text input]_
+
+## 33. What's your overall happiness of what you do as a game developer (10 - the happiest)?
 _[dropdown]_
 
-## 33. Are there any specific issues or struggles you're having when developing games?
+## 34. Are there any specific issues or struggles you're having when developing games?
 _[text input]_
 
-## 34. In your opinion, what are the biggest challenges facing web game development community in 2024?
+## 35. In your opinion, what are the biggest challenges facing web game development community in 2024?
 _[text input]_
 
-## 35. Anything else you'd like to add?
+## 36. Anything else you'd like to add?
 _[text input]_
 
 ---
