@@ -85,6 +85,7 @@ _[radio]_
 _[radio]_
 
 - Windows
+- Windows (WSL)
 - MacOS
 - Linux
 - ChromeOS
@@ -113,6 +114,7 @@ _[radio]_
 - Eclipse
 - Notepad++
 - Brackets
+- Zed
 - Not a coder
 - Provided by/inside game engine
 - _Other [text input]_
@@ -134,6 +136,7 @@ _[checkboxes]_
 - SWC
 - TypeScript
 - NPM
+- Jake
 - My own
 - Provided by/inside game engine
 - None
@@ -216,6 +219,7 @@ _[radio]_
 - Vue
 - Svelte
 - Angular
+- Solid
 - None
 - _Other [text input]_
 
