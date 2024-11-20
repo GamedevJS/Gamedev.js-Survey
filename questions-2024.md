@@ -1,13 +1,18 @@
-# Gamedev.js Survey: State of Web Game Development in 2024
+# Gamedev.js Survey: State of Web Based Game Development in 2024
 
-Thank you for taking part in the Survey and answering questions! It should take no more than 20 minutes, and will greatly help us evaluate the current state of Web Game Development. It's open between OPENING_DATE and CLOSING_DATE, and we plan on sharing the results publicly PUBLISHING_DATE. Make sure to visit [gamedevjs.com/survey/2024](https://gamedevjs.com/survey/2024/) for more details.
+The survey should take no more than 20 minutes. The result will be used to evaluate the state of Web Based Game Development in 2024. The survey will take place between OPENING_DATE and CLOSING_DATE, and we plan on sharing the results publicly on PUBLISHING_DATE. Make sure to visit [gamedevjs.com/survey/2024](https://gamedevjs.com/survey/2024/) for more details.
 
-This survey is anonymous, and by (optionally) leaving your email address at the very end of it, you agree to take part in the prize giveaway ($500 cash total to 10 lucky participants, $50 each), being emailed with the results, and notified when we repeat the survey next year.
+This survey is anonymous. By (optionally) leaving your email address at the end, you agree to take part in the prize giveaway. The prizes include $50 for 10 lucky participants. Winners will be notified by email.
 
-## 1. What country do you live in and work from?
+We would like to extend our thanks for your participation. 
+
+## 1. Country of Residence
 _[dropdown]_
 
-## 2. How old are you?
+## 2. Country of Origin
+_[dropdown]_
+
+## 3. Age
 _[radio]_
 
 - < 18
@@ -18,7 +23,7 @@ _[radio]_
 - 56 - 65
 - 66+
 
-## 3. What is your gender?
+## 4. Gender
 _[radio]_
 
 - Female
@@ -26,19 +31,19 @@ _[radio]_
 - Non-binary
 - Prefer not to say
 
-## 4. Your gamedev job status
+## 5. GameDev Status
 _[radio]_
 
 - Hobbyist
 - Freelancer
-- Own business
-- Employed by a company
+- Self-Employed
+- Employee
 - _Other [text input]_
 
-## 5. If you work professionally as a game developer, what is the size of your company?
+## 6. Company Size
 _[radio]_
 
-- Solo
+- 1
 - 2 - 5
 - 6 - 20
 - 21 - 50
@@ -46,8 +51,9 @@ _[radio]_
 - 101 - 500
 - 501 - 1000
 - 1000+
+- Not applicable
 
-## 6. Years of gamedev work experience
+## 7. GameDev Experience (Years)
 _[radio]_
 
 - < 1
@@ -57,7 +63,7 @@ _[radio]_
 - 11 - 15
 - 15+
 
-## 7. How many games have you released so far? (including any comercial and/or free to play games but excluding game jam projects)
+## 8. Games created
 _[radio]_
 
 - 0
@@ -68,7 +74,7 @@ _[radio]_
 - 21 - 50
 - 50+
 
-- ## 7b. How many game jam projects have you submitted so far? (excluding games that were later released and included in the previous answer)
+- ## 9. Game Jams entered
 _[radio]_
 
 - 0
@@ -81,7 +87,7 @@ _[radio]_
 
 ---
 
-## 8. What operating system are you mainly using to develop your games?
+## 10. Operating System
 _[radio]_
 
 - Windows
@@ -91,7 +97,7 @@ _[radio]_
 - ChromeOS
 - _Other [text input]_
 
-## 9. Which browser are you using as a main development one?
+## 11. Web Browser
 _[radio]_
 
 - Chrome
@@ -103,143 +109,58 @@ _[radio]_
 - Brave
 - _Other [text input]_
 
-## 10. What editor are you mainly using to code?
+## 12. Code Editor
 _[radio]_
 
 - VS Code
-- Visual Studio
 - Sublime Text
 - Vim
-- WebStorm
-- Eclipse
-- Notepad++
-- Brackets
+- Emacs
+- JetBrains IDE
 - Zed
 - Not a coder
-- Provided by/inside game engine
 - _Other [text input]_
 
-## 11. What build tools are you using?
+## 13. Build Tools
 _[checkboxes]_
 
 - ESbuild
 - Gulp
-- Grunt
 - Vite
 - Webpack
-- Parcel
 - Rollup
-- Next.js
-- Nuxt.js
-- SvelteKit
-- Browserify
-- SWC
-- TypeScript
-- NPM
-- Jake
-- My own
-- Provided by/inside game engine
 - None
-- Not applicable
 - _Other [text input]_
 
-## 12. What languages are you using to create web games?
+## 14. Programming Languages
 _[checkboxes]_
 
 - JavaScript
 - TypeScript
-- CoffeeScript
-- ClojureScript
-- Rust (via WebAssembly)
+- Rust
 - C#
 - Lua
-- Game engine specific (e.g. GDScript, GML...)
-- Not a coder
+- None
 - _Other [text input]_
 
-## 13. What technologies / APIs are you using?
-_[checkboxes]_
-
-- Canvas
-- WebGL
-- WebGPU
-- WebXR
-- PWA Installs
-- Web Animations
-- Web Audio
-- Web Speech
-- WebSocket
-- WebRTC
-- WebTransport
-- Service Workers
-- Local Storage
-- WebAssembly
-- Web Monetization
-- Speech Synthesis
-- History
-- Not applicable
-- _Other [text input]_
-
-## 14. Which frameworks / engines are you using?
+## 15. Frameworks/Engines
 _[checkboxes]_
 
 - Three.js
 - BabylonJS
-- PlayCanvas
 - Phaser
 - Pixi.js
-- DOM-based/CSS/CSS3D
 - Unity
 - Godot
-- Defold
-- Construct
 - GameMaker
-- Cocos
-- GDevelop
 - Unreal
-- W.js
-- Kontra
 - Kaplay
-- LittleJS
-- Goodluck
 - Raylib
-- Solar2D
-- Kiwi.js
-- CryEngine
-- AFrame
-- My own
-- None
-- Not applicable
-- _Other [text input]_
-
-## 15. Which UI library or framework are you using the most?
-_[radio]_
-
-- React
-- Vue
-- Svelte
-- Angular
-- Solid
+- Custom
 - None
 - _Other [text input]_
 
-## 16. Which engine wrapper are you using the most?
-_[radio]_
-
-- React Three Fiber
-- TresJS
-- Threlte
-- Angular Three
-- React-BabylonJS
-- Vue-BabylonJS
-- Pixi React
-- ReactPixiFiber
-- Svelte Pixi
-- Phavuer
-- None
-- _Other [text input]_
-
-## 17. What genres of games do you develop?
+## 16. Game Genres
 _[checkboxes]_
 
 - Adventure
@@ -262,7 +183,7 @@ _[checkboxes]_
 - Roguelike
 - _Other [text input]_
 
-## 18. How do you stay updated on the latest trends and advancements in web game development?
+## 17. Source of Game Development Trends
 _[checkboxes]_
 
 - Online forums and communities
