@@ -57,7 +57,18 @@ _[radio]_
 - 11 - 15
 - 15+
 
-## 7. How many games have you released so far?
+## 7. How many games have you released so far? (including any comercial and/or free to play games but excluding game jam projects)
+_[radio]_
+
+- 0
+- 1
+- 2 - 5
+- 6 - 10
+- 11 - 20
+- 21 - 50
+- 50+
+
+- ## 7b. How many game jam projects have you submitted so far? (excluding games that were later released and included in the previous answer)
 _[radio]_
 
 - 0
@@ -124,6 +135,7 @@ _[checkboxes]_
 - TypeScript
 - NPM
 - My own
+- Provided by/inside game engine
 - None
 - Not applicable
 - _Other [text input]_
@@ -135,8 +147,10 @@ _[checkboxes]_
 - TypeScript
 - CoffeeScript
 - ClojureScript
+- Rust (via WebAssembly)
 - C#
 - Lua
+- Game engine specific (e.g. GDScript, GML...)
 - Non coding tool
 - Not a coder
 - _Other [text input]_
@@ -183,8 +197,10 @@ _[checkboxes]_
 - Unreal
 - W.js
 - Kontra
+- Kaplay
 - LittleJS
 - Goodluck
+- Raylib
 - Solar2D
 - Kiwi.js
 - CryEngine
@@ -195,7 +211,7 @@ _[checkboxes]_
 - Not applicable
 - _Other [text input]_
 
-## 15. Which UI library are you using the most?
+## 15. Which UI library or framework are you using the most?
 _[radio]_
 
 - React
@@ -241,6 +257,7 @@ _[checkboxes]_
 - Battle Royale
 - Survival
 - Party
+- Roguelike
 - _Other [text input]_
 
 ## 18. How do you stay updated on the latest trends and advancements in web game development?
@@ -251,6 +268,8 @@ _[checkboxes]_
 - Social media
 - Conferences and events
 - Online courses and tutorials
+- Newsletters and mailing lists
+- Podcasts
 - I don't
 - Other [text input]
 
@@ -285,8 +304,11 @@ _[checkboxes]_
 - MagicaVoxel
 - Pixelorama
 - Figma
+- Penpot
 - Sketch
 - Gravit Designer
+- Affinity Photo
+- Affinity Designer
 - _Other [text input]_
 
 ## 21. Where are you getting your sound and music assets from?
@@ -344,7 +366,9 @@ _[checkboxes]_
 - Via my community/my fanbase
 - Friends and family
 - I publish my test versions publicly
+- Game development affinity meeting groups (i.e. meetups)
 - Discord/Twitter
+- Forums
 - Recruiting agencies/tools
 - I don’t find an audience to test my games
 - _Other [text input]_
@@ -367,6 +391,7 @@ _[checkboxes]_
 _[checkboxes]_
 
 - X (formerly Twitter)
+- BlueSky
 - Mastodon
 - Facebook
 - Instagram
@@ -379,11 +404,11 @@ _[checkboxes]_
 
 ---
 
-## 28. What is your source of income?
+## 28. What are your sources of income?
 _[checkboxes]_
 
-- Salary (from gamedev jobs)
-- Salary (from non-gamedev jobs)
+- Salary (related to game development)
+- Salary (unrelated to game development)
 - Licensing fees (fixed / subscription / revenue share)
 - Advertisements
 - In-App Purchases
@@ -394,6 +419,25 @@ _[checkboxes]_
 - Crypto / NFTs
 - None
 - _Other [text input]_
+
+## 28.1 What is your primary source of income?
+_[radio]_
+
+- Salary
+- Licensing fees (fixed / subscription / revenue share)
+- Advertisements
+- In-App Purchases
+- Direct sales (paid games)
+- Client work
+- Donations
+- Web Monetization
+- Crypto / NFTs
+- None
+- _Other
+
+## 28.2 What percentage of your gamedev income does your primary source make up?
+
+[text_input]_ (0-100%)
 
 ## 29. How much money are you earning from game development (yearly estimate)?
 _[radio]_
