@@ -1,13 +1,18 @@
-# Gamedev.js Survey: State of Web Game Development in 2024
+# Gamedev.js Survey: State of Web Based Game Development in 2024
 
-Thank you for taking part in the Survey and answering questions! It should take no more than 20 minutes, and will greatly help us evaluate the current state of Web Game Development. It's open between OPENING_DATE and CLOSING_DATE, and we plan on sharing the results publicly PUBLISHING_DATE. Make sure to visit [gamedevjs.com/survey/2024](https://gamedevjs.com/survey/2024/) for more details.
+The survey should take no more than 20 minutes. The result will be used to evaluate the state of Web Based Game Development in 2024. The survey will take place between OPENING_DATE and CLOSING_DATE, and we plan on sharing the results publicly on PUBLISHING_DATE. Make sure to visit [gamedevjs.com/survey/2024](https://gamedevjs.com/survey/2024/) for more details.
 
-This survey is anonymous, and by (optionally) leaving your email address at the very end of it, you agree to take part in the prize giveaway ($500 cash total to 10 lucky participants, $50 each), being emailed with the results, and notified when we repeat the survey next year.
+This survey is anonymous. By (optionally) leaving your email address at the end, you agree to take part in the prize giveaway. The prizes include $50 for 10 lucky participants. Winners will be notified by email.
 
-## 1. What country do you live in and work from?
+We would like to extend our thanks for your participation. 
+
+## 1. Country of Residence
 _[dropdown]_
 
-## 2. How old are you?
+## 2. Country of Origin
+_[dropdown]_
+
+## 3. Age
 _[radio]_
 
 - < 18
@@ -18,7 +23,7 @@ _[radio]_
 - 56 - 65
 - 66+
 
-## 3. What is your gender?
+## 4. Gender
 _[radio]_
 
 - Female
@@ -26,19 +31,21 @@ _[radio]_
 - Non-binary
 - Prefer not to say
 
-## 4. Your gamedev job status
+## 5. GameDev Status
 _[radio]_
 
 - Hobbyist
 - Freelancer
 - Business Owner
 - Employed by a company
+- Self-Employed
+- Employee
 - _Other [text input]_
 
-## 5. If you work professionally as a game developer, what is the size of your company?
+## 6. Company Size
 _[radio]_
 
-- Solo
+- 1
 - 2 - 5
 - 6 - 20
 - 21 - 50
@@ -46,8 +53,9 @@ _[radio]_
 - 101 - 500
 - 501 - 1000
 - 1000+
+- Not applicable
 
-## 6. Years of gamedev work experience
+## 7. GameDev Experience (Years)
 _[radio]_
 
 - < 1
@@ -57,7 +65,7 @@ _[radio]_
 - 11 - 15
 - 15+
 
-## 7. How many games have you released so far? (including any commercial and/or free to play games but excluding game jam projects)
+## 8. Games created
 _[radio]_
 
 - 0
@@ -68,7 +76,7 @@ _[radio]_
 - 21 - 50
 - 50+
 
-- ## 7b. How many game jam projects have you submitted so far? (excluding games that were later released and included in the previous answer, including games you have submitted for other game jams)
+## 9. Game Jams entered
 _[radio]_
 
 - 0
@@ -81,16 +89,17 @@ _[radio]_
 
 ---
 
-## 8. What operating system are you mainly using to develop your games?
+## 10. Operating System
 _[radio]_
 
 - Windows
+- Windows (WSL)
 - MacOS
 - Linux
 - ChromeOS
 - _Other [text input]_
 
-## 9. Which browser are you using as your main development?
+## 11. Which browser are you using as your main development?
 _[radio]_
 
 - Chrome
@@ -102,30 +111,31 @@ _[radio]_
 - Brave
 - _Other [text input]_
 
-## 10. What editor are you mainly using to code?
+## 12. Code Editor
 _[radio]_
 
 - VS Code
-- Visual Studio
 - Sublime Text
 - Vim
+- Emacs
+- JetBrains IDE
+- Zed
 - WebStorm
 - Eclipse
 - Notepad++
+- Atom
 - Brackets
 - Not a coder
 - In-house editor
 - _Other [text input]_
 
-## 11. What build tools are you using?
+## 13. Build Tools
 _[checkboxes]_
 
 - ESbuild
 - Gulp
-- Grunt
 - Vite
 - Webpack
-- Parcel
 - Rollup
 - Next.js
 - Nuxt.js
@@ -137,68 +147,31 @@ _[checkboxes]_
 - My own
 - In-house tools
 - None
-- Not applicable
 - _Other [text input]_
 
-## 12. What languages are you using to create web games?
+## 14. Programming Languages
 _[checkboxes]_
 
 - JavaScript
 - TypeScript
-- CoffeeScript
-- ClojureScript
-- Rust (via WebAssembly)
+- Rust
 - C#
 - Lua
-- Game engine specific (e.g. GDScript, GML...)
-- Not a coder
+- None
 - _Other [text input]_
 
-## 13. What technologies / APIs are you using?
-_[checkboxes]_
-
-- Canvas
-- WebGL
-- WebGPU
-- WebXR
-- PWA Installs
-- Web Animations
-- Web Audio
-- Web Speech
-- WebSocket
-- WebRTC
-- WebTransport
-- Service Workers
-- Local Storage
-- WebAssembly
-- Web Monetization
-- Speech Synthesis
-- History
-- Not applicable
-- _Other [text input]_
-
-## 14. Which frameworks / engines are you using?
+## 15. Frameworks/Engines
 _[checkboxes]_
 
 - Three.js
 - BabylonJS
-- PlayCanvas
 - Phaser
 - Pixi.js
-- DOM-based/CSS/CSS3D
 - Unity
 - Godot
-- Defold
-- Construct
 - GameMaker
-- Cocos
-- GDevelop
 - Unreal
-- W.js
-- Kontra
 - Kaplay
-- LittleJS
-- Goodluck
 - Raylib
 - Solar2D
 - Kiwi.js
@@ -209,7 +182,7 @@ _[checkboxes]_
 - Not applicable
 - _Other [text input]_
 
-## 15. Which UI library or framework are you using the most?
+## 16. Which UI library or framework are you using the most?
 _[radio]_
 
 - React
@@ -219,7 +192,7 @@ _[radio]_
 - None
 - _Other [text input]_
 
-## 16. Which engine wrapper are you using the most?
+## 17. Which engine wrapper are you using the most?
 _[radio]_
 
 - React Three Fiber
@@ -235,7 +208,7 @@ _[radio]_
 - None
 - _Other [text input]_
 
-## 17. What source control are you using?
+## 18. What source control are you using?
 
 - Git
 - Perforce
@@ -245,7 +218,7 @@ _[radio]_
 - None
 - _Other [text input]_
 
-## 18. What genres of games do you develop?
+## 19. What genres of games do you develop?
 _[checkboxes]_
 
 - Adventure
@@ -266,15 +239,18 @@ _[checkboxes]_
 - Survival
 - Party
 - Roguelike
+- Custom
+- None
 - _Other [text input]_
 
-## 19. How do you stay updated on the latest trends and advancements in web game development?
+## 20. How do you stay updated on the latest trends and advancements in web game development?
 _[checkboxes]_
 
 - Online forums and communities
 - Blogs and articles
 - Social media
 - Conferences and events
+- Podcasts
 - Online courses and tutorials
 - Newsletters and mailing lists
 - Podcasts
@@ -283,7 +259,7 @@ _[checkboxes]_
 
 ---
 
-## 20. Where are you getting your graphic design assets from?
+## 21. Where are you getting your graphic design assets from?
 _[checkboxes]_
 
 - I create them on my own
@@ -296,7 +272,7 @@ _[checkboxes]_
 - Not applicable
 - _Other [text input]_
 
-## 21. If you create graphic design assets, what tools are you using?
+## 22. If you create graphic design assets, what tools are you using?
 _[checkboxes]_
 
 - Adobe Photoshop
@@ -320,7 +296,7 @@ _[checkboxes]_
 - Affinity Designer
 - _Other [text input]_
 
-## 22. Where are you getting your sound and music assets from?
+## 23. Where are you getting your sound and music assets from?
 _[checkboxes]_
 
 - I create them on my own
@@ -333,7 +309,7 @@ _[checkboxes]_
 - Not applicable
 - _Other [text input]_
 
-## 23. If you create sound and music assets, what tools are you using?
+## 24. If you create sound and music assets, what tools are you using?
 _[checkboxes]_
 
 - Wwise
@@ -347,7 +323,7 @@ _[checkboxes]_
 - GarageBand
 - _Other [text input]_
 
-## 24. How do you test your code?
+## 25. How do you test your code?
 _[checkboxes]_
 
 - Myself
@@ -359,7 +335,7 @@ _[checkboxes]_
 - Not applicable
 - _Other [text input]_
 
-## 25. When is the first moment in your game development process that your target audience plays your game (family and friends not included)?
+## 26. When is the first moment in your game development process that your target audience plays your game (family and friends not included)?
 _[radio]_
 
 - Concept phase
@@ -368,7 +344,7 @@ _[radio]_
 - When the game is totally finished
 - _Other [text input]_
 
-## 26. Where do you find your target audience to test your game?
+## 27. Where do you find your target audience to test your game?
 _[checkboxes]_
 
 - Via my community/my fanbase
@@ -381,7 +357,7 @@ _[checkboxes]_
 - I don’t find an audience to test my games
 - _Other [text input]_
 
-## 27. Where do you publish your games?
+## 28. Where do you publish your games?
 _[checkboxes]_
 
 - On your own website
@@ -396,11 +372,12 @@ _[checkboxes]_
 - Nothing published yet
 - _Other [text input]_
 
-## 28. Which platforms do you use to promote your activities?
+## 29. Which platforms do you use to promote your activities?
 _[checkboxes]_
 
 - X (formerly Twitter)
 - BlueSky
+- TikTok
 - Mastodon
 - Facebook
 - Instagram
@@ -415,7 +392,7 @@ _[checkboxes]_
 
 ---
 
-## 29.1 What are your sources of income?
+## 30 What are your sources of income?
 _[checkboxes]_
 
 - Salary (related to game development)
@@ -431,7 +408,7 @@ _[checkboxes]_
 - None
 - _Other [text input]_
 
-## 29.2 What is your primary source of income?
+## 31 What is your primary source of income?
 _[radio]_
 
 - Salary
@@ -446,11 +423,11 @@ _[radio]_
 - None
 - _Other
 
-## 29.3 What percentage of your gamedev income does your primary source make up?
+## 32 What percentage of your gamedev income does your primary source make up?
 
 [text_input]_ (0-100%)
 
-## 30. How much money are you earning from game development (yearly estimate)?
+## 33. How much money are you earning from game development (yearly estimate)?
 _[radio]_
 
 - 0
@@ -462,7 +439,7 @@ _[radio]_
 - $51k - 100k
 - $100k+
 
-## 31. How do you feel about blockchain / crypto / NFTs coming into gamedev space?
+## 34. How do you feel about blockchain / crypto / NFTs coming into gamedev space?
 _[radio]_
 
 - Strongly against
@@ -471,19 +448,22 @@ _[radio]_
 - In favor
 - Strongly in favor
 
-## 32. Are you involved in any blockchain / crypto / NFT related game development project? If so, which chain(s) / coin(s)?
+## 35. Are you involved in any blockchain / crypto / NFT related game development project? If so, which chain(s) / coin(s)?
 _[text input]_
 
-## 33. What's your overall happiness of what you do as a game developer (10 - the happiest)?
+## 36. How has the rapid growth of AI influenced your work as a game developer?
+_[text input]_
+
+## 37. What's your overall happiness of what you do as a game developer (10 - the happiest)?
 _[dropdown]_
 
-## 34. Are there any specific issues or struggles you're having when developing games?
+## 38. Are there any specific issues or struggles you're having when developing games?
 _[text input]_
 
-## 35. In your opinion, what are the biggest challenges facing web game development community in 2024?
+## 39. In your opinion, what are the biggest challenges facing web game development community in 2024?
 _[text input]_
 
-## 36. Anything else you'd like to add?
+## 40. Anything else you'd like to add?
 _[text input]_
 
 ---
