@@ -112,6 +112,7 @@ _[radio]_
 - WebStorm
 - Eclipse
 - Notepad++
+- Atom
 - Brackets
 - Not a coder
 - Provided by/inside game engine
@@ -265,6 +266,7 @@ _[checkboxes]_
 - Blogs and articles
 - Social media
 - Conferences and events
+- Podcasts
 - Online courses and tutorials
 - Newsletters and mailing lists
 - Podcasts
@@ -389,6 +391,7 @@ _[checkboxes]_
 
 - X (formerly Twitter)
 - BlueSky
+- TikTok
 - Mastodon
 - Facebook
 - Instagram
