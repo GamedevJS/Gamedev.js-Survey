@@ -250,7 +250,6 @@ _[checkboxes]_
 - Blogs and articles
 - Social media
 - Conferences and events
-- Podcasts
 - Online courses and tutorials
 - Newsletters and mailing lists
 - Podcasts
@@ -386,7 +385,6 @@ _[checkboxes]_
 - Discord
 - Reddit
 - Dedicated game/studio website/blog
-- Discord communities
 - None
 - _Other [text input]_
 
