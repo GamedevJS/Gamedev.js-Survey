@@ -1,7 +1,7 @@
-# Help improve Gamedev.js Survey 2024!
+# Take part in Gamedev.js Survey 2024!
 
-**Help us** improve the upcoming [Gamedev.js Survey 2024](https://gamedevjs.com/survey/2024/) - **review and update** any answers from the `questions-2024.md` file to win $50 out of the $500 pool by sending [Pull Requests](https://github.com/GamedevJS/Gamedev.js-Survey/pulls) with proposed changes. You have two weeks between **November 15th and 29th** to do it.
+**Help us** by [filling the form](https://gamedevjs.com/survey-2024-form) - you have time until **December 20th**, and can win $50 while doing so. Also, please share it with your community, so as many folks as possible can fill it as well, thank you!
 
-Check out [this blog post](https://gamedevjs.com/survey/help-improve-gamedev-js-survey-2024/) for more details.
+Check out the blog post [Gamedev.js Survey 2024 is open](https://gamedevjs.com/survey/gamedev-js-survey-2024-is-open/), and the [Gamedev.js Survey 2024 landing page](https://gamedevjs.com/survey/2024/) for more details.
 
-The Survey itself will run between December 1st and 22nd, with the results being announced in January 2025.
+The full report will be published at the beginning of 2025.
