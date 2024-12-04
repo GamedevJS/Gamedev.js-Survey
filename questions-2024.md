@@ -1,15 +1,15 @@
-# Gamedev.js Survey: State of Web Based Game Development in 2024
+# Gamedev.js Survey: State of Web Game Development in 2024
 
-The survey should take no more than 20 minutes. The result will be used to evaluate the state of Web Based Game Development in 2024. The survey will take place between OPENING_DATE and CLOSING_DATE, and we plan on sharing the results publicly on PUBLISHING_DATE. Make sure to visit [gamedevjs.com/survey/2024](https://gamedevjs.com/survey/2024/) for more details.
+The survey should take no more than 20 minutes. The result will be used to evaluate the state of Web Game Development in 2024. The survey takes place between December 4th and 20th 2024, and we plan on sharing the results publicly in January 2025. Make sure to visit [gamedevjs.com/survey/2024](https://gamedevjs.com/survey/2024/) for more details.
 
-This survey is anonymous. By (optionally) leaving your email address at the end, you agree to take part in the prize giveaway. The prizes include $50 for 10 lucky participants. Winners will be notified by email.
+This survey is anonymous. By optionally leaving your email address at the end, you agree to take part in the prize giveaway. The prizes include $50 each for 10 lucky participants. Winners will be notified by email.
 
 We would like to extend our thanks for your participation. 
 
-## 1. Country of Residence
+## 1. Country of residence
 _[dropdown]_
 
-## 2. Country of Origin
+## 2. Country of origin
 _[dropdown]_
 
 ## 3. Age
@@ -31,18 +31,18 @@ _[radio]_
 - Non-binary
 - Prefer not to say
 
-## 5. GameDev Status
+## 5. GameDev status
 _[radio]_
 
 - Hobbyist
 - Freelancer
-- Business Owner
+- Business owner
 - Employed by a company
-- Self-Employed
+- Self-employed
 - Employee
 - _Other [text input]_
 
-## 6. Company Size
+## 6. Company size
 _[radio]_
 
 - 1
@@ -55,7 +55,7 @@ _[radio]_
 - 1000+
 - Not applicable
 
-## 7. GameDev Experience (Years)
+## 7. GameDev experience (in years)
 _[radio]_
 
 - < 1
@@ -89,7 +89,7 @@ _[radio]_
 
 ---
 
-## 10. Operating System
+## 10. Operating system
 _[radio]_
 
 - Windows
@@ -111,7 +111,7 @@ _[radio]_
 - Brave
 - _Other [text input]_
 
-## 12. Code Editor
+## 12. Code editor
 _[radio]_
 
 - VS Code
@@ -129,7 +129,7 @@ _[radio]_
 - In-house editor
 - _Other [text input]_
 
-## 13. Build Tools
+## 13. Build tools
 _[checkboxes]_
 
 - ESbuild
@@ -149,7 +149,7 @@ _[checkboxes]_
 - None
 - _Other [text input]_
 
-## 14. Programming Languages
+## 14. Programming languages
 _[checkboxes]_
 
 - JavaScript
@@ -160,7 +160,30 @@ _[checkboxes]_
 - None
 - _Other [text input]_
 
-## 15. Frameworks/Engines
+## 15. Technologies / APIs
+_[checkboxes]_
+
+- Canvas
+- WebGL
+- WebGPU
+- WebXR
+- PWA Installs
+- Web Animations
+- Web Audio
+- Web Speech
+- WebSocket
+- WebRTC
+- WebTransport
+- Service Workers
+- Local Storage
+- WebAssembly
+- Web Monetization
+- Speech Synthesis
+- History
+- Not applicable
+- _Other [text input]_
+
+## 16. Frameworks / engines
 _[checkboxes]_
 
 - Three.js
@@ -177,24 +200,18 @@ _[checkboxes]_
 - Kiwi.js
 - CryEngine
 - AFrame
-- My own/in-house
+- My own / in-house
 - None
 - Not applicable
 - _Other [text input]_
 
-## 16. Which UI library or framework are you using the most?
+## 17. Which UI library, framework, or engine wrapper are you using the most?
 _[radio]_
 
 - React
 - Vue
 - Svelte
 - Angular
-- None
-- _Other [text input]_
-
-## 17. Which engine wrapper are you using the most?
-_[radio]_
-
 - React Three Fiber
 - TresJS
 - Threlte
@@ -263,11 +280,11 @@ _[checkboxes]_
 
 - I create them on my own
 - I have a designer in my team
-- I buy assets or packs via Internet/product (eg. Adobe Stock, Unity etc.)
-- I use free (e.g. CC, Unsplash, Getty Images etc) resources on the Internet
+- I buy assets or packs via Internet / product (eg. Adobe Stock, Unity etc.)
+- I use free (eg. CC, Unsplash, Getty Images etc.) resources on the Internet
 - Hiring contractor or a freelancer
 - Procedural generation
-- A.I. tools
+- AI tools
 - Not applicable
 - _Other [text input]_
 
@@ -301,10 +318,10 @@ _[checkboxes]_
 - I create them on my own
 - I have a music producer in my team
 - I buy assets or packs via Internet (eg. Envato)
-- I use free (e.g. CC) resources on the Internet
+- I use free (eg. CC) resources on the Internet
 - Hiring contractor or a freelancer
 - Procedural generation
-- A.I. tools
+- AI tools
 - Not applicable
 - _Other [text input]_
 
@@ -346,13 +363,13 @@ _[radio]_
 ## 27. Where do you find your target audience to test your game?
 _[checkboxes]_
 
-- Via my community/my fanbase
+- Via my community / my fanbase
 - Friends and family
 - I publish my test versions publicly
-- Game development affinity meeting groups (i.e. meetups)
-- Discord/Twitter
+- Game development meeting groups and meetups
+- Discord / Twitter / other socials
 - Forums
-- Recruiting agencies/tools
+- Recruiting agencies / tools
 - I don’t find an audience to test my games
 - _Other [text input]_
 
@@ -375,7 +392,7 @@ _[checkboxes]_
 _[checkboxes]_
 
 - X (formerly Twitter)
-- BlueSky
+- Bluesky
 - TikTok
 - Mastodon
 - Facebook
@@ -384,7 +401,6 @@ _[checkboxes]_
 - GitHub
 - Discord
 - Reddit
-- Dedicated game/studio website/blog
 - None
 - _Other [text input]_
 
