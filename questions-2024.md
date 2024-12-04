@@ -188,18 +188,27 @@ _[checkboxes]_
 
 - Three.js
 - BabylonJS
+- PlayCanvas
 - Phaser
 - Pixi.js
 - Unity
 - Godot
+- Defold
+- Construct
 - GameMaker
+- Cocos
+- GDevelop
 - Unreal
+- W.js
+- Kontra
+- LittleJS
+- Goodluck
 - Kaplay
 - Raylib
 - Solar2D
 - Kiwi.js
 - CryEngine
-- AFrame
+- A-Frame
 - My own / in-house
 - None
 - Not applicable
@@ -226,6 +235,7 @@ _[radio]_
 - _Other [text input]_
 
 ## 18. What source control are you using?
+_[checkboxes]_
 
 - Git
 - Perforce
@@ -406,7 +416,7 @@ _[checkboxes]_
 
 ---
 
-## 30 What are your sources of income?
+## 30. What are your sources of income?
 _[checkboxes]_
 
 - Salary (related to game development)
@@ -422,10 +432,11 @@ _[checkboxes]_
 - None
 - _Other [text input]_
 
-## 31 What is your primary source of income?
+## 31. What is your primary source of income?
 _[radio]_
 
-- Salary
+- Salary (related to game development)
+- Salary (unrelated to game development)
 - Licensing fees (fixed / subscription / revenue share)
 - Advertisements
 - In-App Purchases
@@ -437,9 +448,10 @@ _[radio]_
 - None
 - _Other
 
-## 32 What percentage of your gamedev income does your primary source make up?
+## 32. What percentage of your gamedev income does your primary source make up?
+_[linear_scale]_
 
-[text_input]_ (0-100%)
+- 0-100%
 
 ## 33. How much money are you earning from game development (yearly estimate)?
 _[radio]_
@@ -468,8 +480,10 @@ _[text input]_
 ## 36. How has the rapid growth of AI influenced your work as a game developer?
 _[text input]_
 
-## 37. What's your overall happiness of what you do as a game developer (10 - the happiest)?
-_[dropdown]_
+## 37. What's your overall happiness of what you do as a game developer (10 being the happiest)?
+_[linear_scale]_
+
+- 1-10
 
 ## 38. Are there any specific issues or struggles you're having when developing games?
 _[text input]_
