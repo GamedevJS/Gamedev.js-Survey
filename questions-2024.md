@@ -93,10 +93,10 @@ _[radio]_
 _[radio]_
 
 - Windows
-- Windows (WSL)
 - MacOS
 - Linux
 - ChromeOS
+- Windows Subsystem for Linux
 - _Other [text input]_
 
 ## 11. Which browser are you using as your main development?
