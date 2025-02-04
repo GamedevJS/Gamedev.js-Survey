@@ -202,13 +202,12 @@ _[checkboxes]_
 - W.js
 - Kontra
 - LittleJS
-- Goodluck
 - Kaplay
 - Raylib
 - Solar2D
 - Kiwi.js
-- CryEngine
 - A-Frame
+- Wonderland Engine
 - My own / in-house
 - None
 - Not applicable
