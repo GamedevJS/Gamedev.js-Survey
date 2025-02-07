@@ -34,6 +34,7 @@ _[radio]_
 ## 5. GameDev status
 _[radio]_
 
+- Student
 - Hobbyist
 - Freelancer
 - Business owner
@@ -180,6 +181,7 @@ _[checkboxes]_
 - Web Monetization
 - Speech Synthesis
 - History
+- Gamepad
 - Not applicable
 - _Other [text input]_
 
