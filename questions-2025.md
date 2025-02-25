@@ -192,6 +192,7 @@ _[checkboxes]_
 - BabylonJS
 - PlayCanvas
 - Phaser
+- Excalibur.js
 - Pixi.js
 - Unity
 - Godot
