@@ -1,6 +1,6 @@
-# Gamedev.js Survey: State of Web Game Development in 2025
+# Gamedev.js Survey: State of Web Game Development in 2026
 
-The survey should take no more than 20 minutes. The result will be used to evaluate the state of Web Game Development in 2025. The survey takes place between December 8th and 19th 2025, and we plan on sharing the results publicly in January 2026. Make sure to visit [gamedevjs.com/survey/2025](https://gamedevjs.com/survey/2025/) for more details.
+The survey should take no more than 20 minutes. The result will be used to evaluate the state of Web Game Development in 2026. The survey takes place between _START_ and _END_ 2026, and we plan on sharing the results publicly in _PUBLISHED_. Make sure to visit [gamedevjs.com/survey/2026](https://gamedevjs.com/survey/2026/) for more details.
 
 This survey is anonymous. By optionally leaving your email address at the end, you agree to take part in the prize giveaway. The prizes include $50 each for 10 lucky participants. Winners will be notified by email.
 
