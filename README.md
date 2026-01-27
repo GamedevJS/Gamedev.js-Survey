@@ -1,4 +1,4 @@
-# Report on the current state of Web Game Development in 2024 is published!
+# Report on the current state of Web Game Development in 2025 is published!
 
 The results of the [Gamedev.js Survey 2025](https://gamedevjs.com/survey/2025/) are [published](https://gamedevjs.com/survey/report-on-the-current-state-of-web-game-development-in-2025-is-out/) already. Feel free to use the data from the [Report in PDF](https://gamedevjs.com/dl/gamedevjs-survey-2025-report.pdf) however you see fit, just remember to credit the source, thanks.
 
