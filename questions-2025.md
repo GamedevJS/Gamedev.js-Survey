@@ -490,7 +490,7 @@ _[linear_scale]_
 ## 38. Are there any specific issues or struggles you're having when developing games?
 _[text input]_
 
-## 39. In your opinion, what are the biggest challenges facing web game development community in 2024?
+## 39. In your opinion, what are the biggest challenges facing web game development community in 2025?
 _[text input]_
 
 ## 40. Anything else you'd like to add?
