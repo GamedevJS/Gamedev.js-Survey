@@ -88,10 +88,28 @@ _[radio]_
 - 21 - 50
 - 50+
 
+## 10. Game Jams won
+_[radio]_
+
+- 0
+- 1
+- 2 - 5
+- 6 - 10
+- 11 - 20
+- 21 - 50
+- 50+
+
+## 11. Prefer Working with a team in Game Jam
+_[radio]_
+
+- Yes
+- No
+- OK with whatever
+
 ---
 
-## 10. Operating system
-_[radio]_
+## 12. Operating system
+_[checkboxes]_
 
 - Windows
 - MacOS
@@ -100,7 +118,7 @@ _[radio]_
 - Windows Subsystem for Linux
 - _Other [text input]_
 
-## 11. Which browser are you using as your main development?
+## 13. Which browser are you using as your main development?
 _[radio]_
 
 - Chrome
@@ -112,7 +130,7 @@ _[radio]_
 - Brave
 - _Other [text input]_
 
-## 12. Code editor
+## 14. Code editor
 _[radio]_
 
 - VS Code
@@ -130,7 +148,7 @@ _[radio]_
 - In-house editor
 - _Other [text input]_
 
-## 13. Build tools
+## 15. Build tools
 _[checkboxes]_
 
 - ESbuild
@@ -150,7 +168,7 @@ _[checkboxes]_
 - None
 - _Other [text input]_
 
-## 14. Programming languages
+## 16. Programming languages
 _[checkboxes]_
 
 - JavaScript
@@ -161,12 +179,16 @@ _[checkboxes]_
 - None
 - _Other [text input]_
 
-## 15. Technologies / APIs
+## 17. Technologies / APIs
 _[checkboxes]_
 
 - Canvas
-- WebGL
+- WebGL1
+- WebGL2
 - WebGPU
+- Web Monetization
+- Speech Synthesis
+- Gamepad
 - WebXR
 - PWA Installs
 - Web Animations
@@ -176,16 +198,18 @@ _[checkboxes]_
 - WebRTC
 - WebTransport
 - Service Workers
+- Web Workers
 - Local Storage
 - WebAssembly
-- Web Monetization
-- Speech Synthesis
+- SharedArrayBuffer
+- WebHID
+- Web Bluetooth
+- Prioritized Task Scheduling
 - History
-- Gamepad
 - Not applicable
 - _Other [text input]_
 
-## 16. Frameworks / engines
+## 18. Frameworks / engines
 _[checkboxes]_
 
 - Three.js
@@ -216,17 +240,19 @@ _[checkboxes]_
 - Not applicable
 - _Other [text input]_
 
-## 17. Which UI library, framework, or engine wrapper are you using the most?
+## 19. Which UI library, framework, or engine wrapper are you using the most?
 _[radio]_
 
 - React
 - Vue
 - Svelte
 - Angular
+- Solidjs
 - React Three Fiber
 - TresJS
 - Threlte
 - Angular Three
+- Solid Three
 - React-BabylonJS
 - Vue-BabylonJS
 - Pixi React
@@ -236,7 +262,7 @@ _[radio]_
 - None
 - _Other [text input]_
 
-## 18. What source control are you using?
+## 20. What source control are you using?
 _[checkboxes]_
 
 - Git
@@ -247,7 +273,7 @@ _[checkboxes]_
 - None
 - _Other [text input]_
 
-## 19. What genres of games do you develop?
+## 21. What genres of games do you develop?
 _[checkboxes]_
 
 - Adventure
@@ -272,7 +298,7 @@ _[checkboxes]_
 - None
 - _Other [text input]_
 
-## 20. How do you stay updated on the latest trends and advancements in web game development?
+## 22. How do you stay updated on the latest trends and advancements in web game development?
 _[checkboxes]_
 
 - Online forums and communities
@@ -287,7 +313,7 @@ _[checkboxes]_
 
 ---
 
-## 21. Where are you getting your graphic design assets from?
+## 23. Where are you getting your graphic design assets from?
 _[checkboxes]_
 
 - I create them on my own
@@ -300,7 +326,7 @@ _[checkboxes]_
 - Not applicable
 - _Other [text input]_
 
-## 22. If you create graphic design assets, what tools are you using?
+## 24. If you create graphic design assets, what tools are you using?
 _[checkboxes]_
 
 - Adobe Photoshop
@@ -324,7 +350,7 @@ _[checkboxes]_
 - Affinity Designer
 - _Other [text input]_
 
-## 23. Where are you getting your sound and music assets from?
+## 25. Where are you getting your sound and music assets from?
 _[checkboxes]_
 
 - I create them on my own
@@ -337,7 +363,7 @@ _[checkboxes]_
 - Not applicable
 - _Other [text input]_
 
-## 24. If you create sound and music assets, what tools are you using?
+## 26. If you create sound and music assets, what tools are you using?
 _[checkboxes]_
 
 - Wwise
@@ -349,9 +375,11 @@ _[checkboxes]_
 - Reaper
 - Bandlab
 - GarageBand
+- Fruity Loops
+- Ableton
 - _Other [text input]_
 
-## 25. How do you test your code?
+## 27. How do you test your code?
 _[checkboxes]_
 
 - Myself
@@ -363,7 +391,7 @@ _[checkboxes]_
 - Not applicable
 - _Other [text input]_
 
-## 26. When is the first moment in your game development process that your target audience plays your game (family and friends not included)?
+## 28. When is the first moment in your game development process that your target audience plays your game (family and friends not included)?
 _[radio]_
 
 - Concept phase
@@ -372,7 +400,7 @@ _[radio]_
 - When the game is totally finished
 - _Other [text input]_
 
-## 27. Where do you find your target audience to test your game?
+## 29. Where do you find your target audience to test your game?
 _[checkboxes]_
 
 - Via my community / my fanbase
@@ -383,9 +411,11 @@ _[checkboxes]_
 - Forums
 - Recruiting agencies / tools
 - I don’t find an audience to test my games
+- Poki Playtest program
+- CrazyGames Playtest program
 - _Other [text input]_
 
-## 28. Where do you publish your games?
+## 30. Where do you publish your games?
 _[checkboxes]_
 
 - On your own website
@@ -400,7 +430,7 @@ _[checkboxes]_
 - Nothing published yet
 - _Other [text input]_
 
-## 29. Which platforms do you use to promote your activities?
+## 31. Which platforms do you use to promote your activities?
 _[checkboxes]_
 
 - X (formerly Twitter)
@@ -418,7 +448,7 @@ _[checkboxes]_
 
 ---
 
-## 30. What are your sources of income?
+## 32. What are your sources of income?
 _[checkboxes]_
 
 - Salary (related to game development)
@@ -434,7 +464,7 @@ _[checkboxes]_
 - None
 - _Other [text input]_
 
-## 31. What is your primary source of income?
+## 33. What is your primary source of income?
 _[radio]_
 
 - Salary (related to game development)
@@ -450,12 +480,12 @@ _[radio]_
 - None
 - _Other_
 
-## 32. What percentage of your gamedev income does your primary source make up?
+## 34. What percentage of your gamedev income does your primary source make up?
 _[linear_scale]_
 
 - 0-100%
 
-## 33. How much money are you earning from game development (yearly estimate)?
+## 35. How much money are you earning from game development (yearly estimate)?
 _[radio]_
 
 - 0
@@ -467,7 +497,7 @@ _[radio]_
 - $51k - 100k
 - $100k+
 
-## 34. How do you feel about blockchain / crypto / NFTs coming into gamedev space?
+## 36. How do you feel about blockchain / crypto / NFTs coming into gamedev space?
 _[radio]_
 
 - Strongly against
@@ -476,24 +506,24 @@ _[radio]_
 - In favor
 - Strongly in favor
 
-## 35. Are you involved in any blockchain / crypto / NFT related game development project? If so, which chain(s) / coin(s)?
+## 37. Are you involved in any blockchain / crypto / NFT related game development project? If so, which chain(s) / coin(s)?
 _[text input]_
 
-## 36. How has the rapid growth of AI influenced your work as a game developer?
+## 38. How has the rapid growth of AI influenced your work as a game developer?
 _[text input]_
 
-## 37. What's your overall happiness of what you do as a game developer (10 being the happiest)?
+## 39. What's your overall happiness of what you do as a game developer (10 being the happiest)?
 _[linear_scale]_
 
 - 1-10
 
-## 38. Are there any specific issues or struggles you're having when developing games?
+## 40. Are there any specific issues or struggles you're having when developing games?
 _[text input]_
 
-## 39. In your opinion, what are the biggest challenges facing web game development community in 2026?
+## 41. In your opinion, what are the biggest challenges facing web game development community in 2026?
 _[text input]_
 
-## 40. Anything else you'd like to add?
+## 42. Anything else you'd like to add?
 _[text input]_
 
 ---
