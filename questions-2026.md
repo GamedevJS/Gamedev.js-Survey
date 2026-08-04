@@ -1,6 +1,6 @@
 # Gamedev.js Survey: State of Web Game Development in 2026
 
-The survey should take no more than 20 minutes. The result will be used to evaluate the state of Web Game Development in 2026. The survey takes place between _START_ and _END_ 2026, and we plan on sharing the results publicly in _PUBLISHED_. Make sure to visit [gamedevjs.com/survey/2026](https://gamedevjs.com/survey/2026/) for more details.
+The survey should take no more than 20 minutes. The result will be used to evaluate the state of Web Game Development in 2026. The survey takes place between August 18th and September 18th 2026, and we plan on sharing the results publicly in October. Make sure to visit [gamedevjs.com/survey/2026](https://gamedevjs.com/survey/2026/) for more details.
 
 This survey is anonymous. By optionally leaving your email address at the end, you agree to take part in the prize giveaway. The prizes include $50 each for 10 lucky participants. Winners will be notified by email.
 
@@ -490,7 +490,7 @@ _[linear_scale]_
 ## 38. Are there any specific issues or struggles you're having when developing games?
 _[text input]_
 
-## 39. In your opinion, what are the biggest challenges facing web game development community in 2024?
+## 39. In your opinion, what are the biggest challenges facing web game development community in 2026?
 _[text input]_
 
 ## 40. Anything else you'd like to add?
