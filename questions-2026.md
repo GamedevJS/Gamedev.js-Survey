@@ -66,7 +66,7 @@ _[radio]_
 - 11 - 15
 - 15+
 
-## 8. Games created
+## 8. Games published
 _[radio]_
 
 - 0
