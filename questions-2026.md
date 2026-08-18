@@ -191,7 +191,7 @@ _[checkboxes]_
 - Not applicable
 - _Other [text input]_
 
-## 16. Frameworks / engines
+## 16. Frameworks / Engines
 _[checkboxes]_
 
 - Three.js
@@ -490,7 +490,16 @@ _[radio]_
 ## 35. Are you involved in any blockchain / crypto / NFT related game development project? If so, which chain(s) / coin(s)?
 _[text input]_
 
-## 36. How has the rapid growth of AI influenced your work as a game developer?
+## 34. How do you feel about AI coming into gamedev space?
+_[radio]_
+
+- Strongly against
+- Against
+- Neutral
+- In favor
+- Strongly in favor
+
+## 36. How are you using AI in the development of your games?
 _[text input]_
 
 ## 37. What's your overall happiness of what you do as a game developer (10 being the happiest)?
