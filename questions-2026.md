@@ -90,8 +90,8 @@ _[radio]_
 
 ---
 
-## 10. Operating system
-_[checkboxes]_
+## 10. Main operating system
+_[radio]_
 
 - Windows
 - MacOS
@@ -237,7 +237,7 @@ _[radio]_
 - Vue
 - Svelte
 - Angular
-- Solidjs
+- SolidJS
 - React Three Fiber
 - TresJS
 - Threlte
@@ -536,5 +536,5 @@ _[text input]_
 
 ---
 
-Leave your email address if you'd like to have a chance of winning prizes ($500 cash total to 10 lucky participants, $50 each), receive the results to your inbox as soon as they are published, and to be added to our newsletter.
+Leave your email address if you'd like to have a chance of winning prizes ($500 cash total to 10 lucky participants, $50 each), receive the results to your inbox as soon as they are published, and to be entered into future outreach.
 _[text input]_
