@@ -1,8 +1,8 @@
 # Gamedev.js Survey: State of Web Game Development in 2026
 
-The survey should take no more than 20 minutes. The result will be used to evaluate the state of Web Game Development in 2026. The survey takes place between August 18th and September 18th 2026, and we plan on sharing the results publicly in October. Make sure to visit [gamedevjs.com/survey/2026](https://gamedevjs.com/survey/2026/) for more details.
+The survey should take no more than 20 minutes. The result will be used to evaluate the state of Web Game Development in 2026. The survey takes place between August 18th and September 18th 2026, and results will be shared publicly.
 
-This survey is anonymous. By optionally leaving your email address at the end, you agree to take part in the prize giveaway. The prizes include $50 each for 10 lucky participants. Winners will be notified by email.
+This survey is anonymous. By optionally leaving your email address at the end, you agree to take part in the prize giveaway. The prizes include $50 each for 10 lucky participants. Winners will be notified via email.
 
 We would like to extend our thanks for your participation. 
 
@@ -91,7 +91,7 @@ _[radio]_
 ---
 
 ## 10. Operating system
-_[radio]_
+_[checkboxes]_
 
 - Windows
 - MacOS
@@ -165,8 +165,12 @@ _[checkboxes]_
 _[checkboxes]_
 
 - Canvas
-- WebGL
+- WebGL1
+- WebGL2
 - WebGPU
+- Web Monetization
+- Speech Synthesis
+- Gamepad
 - WebXR
 - PWA Installs
 - Web Animations
@@ -176,12 +180,14 @@ _[checkboxes]_
 - WebRTC
 - WebTransport
 - Service Workers
+- Web Workers
 - Local Storage
 - WebAssembly
-- Web Monetization
-- Speech Synthesis
+- SharedArrayBuffer
+- WebHID
+- Web Bluetooth
+- Prioritized Task Scheduling
 - History
-- Gamepad
 - Not applicable
 - _Other [text input]_
 
@@ -223,10 +229,12 @@ _[radio]_
 - Vue
 - Svelte
 - Angular
+- Solidjs
 - React Three Fiber
 - TresJS
 - Threlte
 - Angular Three
+- Solid Three
 - React-BabylonJS
 - Vue-BabylonJS
 - Pixi React
@@ -349,6 +357,8 @@ _[checkboxes]_
 - Reaper
 - Bandlab
 - GarageBand
+- Fruity Loops
+- Ableton
 - _Other [text input]_
 
 ## 25. How do you test your code?
@@ -382,6 +392,7 @@ _[checkboxes]_
 - Discord / Twitter / other socials
 - Forums
 - Recruiting agencies / tools
+- Publisher playtest programs
 - I don’t find an audience to test my games
 - _Other [text input]_
 
@@ -498,5 +509,5 @@ _[text input]_
 
 ---
 
-Leave your email address if you'd like to have a chance of winning prizes ($500 cash total to 10 lucky participants, $50 each), receive the results to your inbox as soon as they are published, and get a notification when we repeat the survey next year.
+Leave your email address if you'd like to have a chance of winning prizes ($500 cash total to 10 lucky participants, $50 each), receive the results to your inbox as soon as they are published, and to opt-in for any future contact from us.
 _[text input]_
