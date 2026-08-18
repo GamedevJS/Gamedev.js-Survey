@@ -1,6 +1,6 @@
 # Gamedev.js Survey: State of Web Game Development in 2026
 
-The survey should take no more than 20 minutes. The result will be used to evaluate the state of Web Game Development in 2026. The survey takes place between August 18th and September 18th 2026, and results will be shared publicly.
+The survey should take no more than 20 minutes. The result will be used to evaluate the state of Web Game Development in 2026. The survey takes place between August 18th and September 18th 2026, and results will be published shortly after.
 
 This survey is anonymous. By optionally leaving your email address at the end, you agree to take part in the prize giveaway. The prizes include $50 each for 10 lucky participants. Winners will be notified via email.
 
@@ -116,6 +116,8 @@ _[radio]_
 _[radio]_
 
 - VS Code
+- Cursor
+- Windsurf
 - Sublime Text
 - Vim
 - Emacs
@@ -137,12 +139,16 @@ _[checkboxes]_
 - Gulp
 - Vite
 - Webpack
+- Rspack
+- Turbopack
 - Rollup
+- Parcel
 - Next.js
 - Nuxt.js
 - SvelteKit
 - Browserify
 - SWC
+- Bun
 - TypeScript
 - NPM
 - My own
@@ -168,6 +174,7 @@ _[checkboxes]_
 - WebGL1
 - WebGL2
 - WebGPU
+- WebCodecs
 - Web Monetization
 - Speech Synthesis
 - Gamepad
@@ -215,6 +222,7 @@ _[checkboxes]_
 - Raylib
 - Solar2D
 - Kiwi.js
+- Melon.js
 - A-Frame
 - Wonderland Engine
 - My own / in-house
@@ -330,6 +338,7 @@ _[checkboxes]_
 - Gravit Designer
 - Affinity Photo
 - Affinity Designer
+- TexturePacker
 - _Other [text input]_
 
 ## 23. Where are you getting your sound and music assets from?
@@ -424,6 +433,7 @@ _[checkboxes]_
 - GitHub
 - Discord
 - Reddit
+- Pinterest
 - None
 - _Other [text input]_
 
@@ -459,7 +469,7 @@ _[radio]_
 - Web Monetization
 - Crypto / NFTs
 - None
-- _Other_
+- _Other [text input]_
 
 ## 32. What percentage of your gamedev income does your primary source make up?
 _[linear_scale]_
@@ -478,18 +488,6 @@ _[radio]_
 - $51k - 100k
 - $100k+
 
-## 34. How do you feel about blockchain / crypto / NFTs coming into gamedev space?
-_[radio]_
-
-- Strongly against
-- Against
-- Neutral
-- In favor
-- Strongly in favor
-
-## 35. Are you involved in any blockchain / crypto / NFT related game development project? If so, which chain(s) / coin(s)?
-_[text input]_
-
 ## 34. How do you feel about AI coming into gamedev space?
 _[radio]_
 
@@ -499,7 +497,27 @@ _[radio]_
 - In favor
 - Strongly in favor
 
-## 36. How are you using AI in the development of your games?
+## 35. Do you use AI coding assistants? If so, which ones?
+_[checkboxes]_
+
+- GitHub Copilot
+- Cursor
+- Windsurf
+- Claude Code
+- ChatGPT / Codex
+- Gemini
+- Grok
+- Codeium
+- Tabnine
+- Replit
+- Hugging Face Local Models
+- LM Studio
+- Ollama
+- vLLM
+- I don't use AI coding assistants
+- _Other [text input]_
+
+## 36. Beyond coding, how are you using AI in your game development workflow (e.g. art, audio, writing, testing, design, marketing), and what's your biggest friction point with it?
 _[text input]_
 
 ## 37. What's your overall happiness of what you do as a game developer (10 being the happiest)?
@@ -518,5 +536,5 @@ _[text input]_
 
 ---
 
-Leave your email address if you'd like to have a chance of winning prizes ($500 cash total to 10 lucky participants, $50 each), receive the results to your inbox as soon as they are published, and to opt-in for any future contact from us.
+Leave your email address if you'd like to have a chance of winning prizes ($500 cash total to 10 lucky participants, $50 each), receive the results to your inbox as soon as they are published, and to be added to our newsletter.
 _[text input]_
